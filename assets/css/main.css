@@ -49,3 +49,7 @@ body .resume-position-time {
 body .badge-primary {
 	background-color: #515252;
 }
+
+.resume-header .picture {
+	width: 200px !important;
+}

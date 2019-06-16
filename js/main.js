@@ -1,5 +1,6 @@
 $( document ).ready(function() {
     ga('send', 'pageview', new Date()) ;
+    $('#date').text((new Date()).toDateString());
 });
 
 $('#resume').click(function() {
